@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hello World ! Je suis Amira 👋
 
-<!--
-**Amirayh/Amirayh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis une jeune développeuse en cours d'apprentissage, passionnée par l'expérience utilisateur ainsi que par la conception de projets complets, fonctionnels et modernes.
+Je souhaite mettre ma créativité et ma rigueur au service de celles et ceux qui m'accorderont leur confiance. 😊
+J’utilise des technos comme Angular, Angular Material/Tailwind CSS, JavaScript, HTML/CSS et Java pour concevoir des solutions efficaces et élégantes.
+Ici, vous découvrirez mes différents projets, créés en formation ou à titre personnel, en cours de conception ou finalisés !
+---
 
-Here are some ideas to get you started:
+## 🌟 Mes projets principaux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1️⃣ **Mon portfolio**
+
+Un projet web a propos de moi, qui présente mes projets et qui permet de me contacter.
+
+État : en cours de création
+
+**Notions utilisées :**
+- HtML/CSS
+- JS
+---
+
+### 2️⃣ **Calculatrice**
+
+---
+
+### 3️⃣ **A venir**
+
+---
+
+### 4️⃣ **A venir**
+
+---
+
+## 📫 Me contacter
+- [LinkedIn](www.linkedin.com/in/amira-yahiaoui-489b20265)
+- Email : amirayahiaoui93380@gmail.com
